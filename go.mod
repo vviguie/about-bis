@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module github.com/vviguie/wowchemy-widget-about-bis
 
 go 1.15
